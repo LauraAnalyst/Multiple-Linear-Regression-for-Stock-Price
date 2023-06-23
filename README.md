@@ -1389,7 +1389,7 @@ April 4, 2023, from <a href="https://ca.finance.yahoo.com/quote/%5EGSPC/history?
 
 
 
-</div>
+
 
 <script>
 
